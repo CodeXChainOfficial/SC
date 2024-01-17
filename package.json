@@ -1,7 +1,7 @@
 {
   "name": "erc20-token-vesting",
   "version": "1.0.1",
-  "description": "ERC20 token vesting smart contracts 💰⏳",
+  "description": "ERC20 token vesting smart contracts",
   "main": "index.js",
   "scripts": {
     "prettier": "npx prettier --write .",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdelhamidbakhta/token-vesting-contracts.git"
+    "url": "git+https://github.com/codexchain/SC/token-vesting-contracts.git"
   },
   "keywords": [
     "ERC20",
@@ -28,12 +28,12 @@
     "Smart+Contracts",
     "Blockchain"
   ],
-  "author": "Abdelhamid Bakhta",
+  "author": "CodeXteam",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/abdelhamidbakhta/token-vesting-contracts/issues"
+    "url": "https://github.com/codexchain/SC/token-vesting-contracts/issues"
   },
-  "homepage": "https://github.com/abdelhamidbakhta/token-vesting-contracts#readme",
+  "homepage": "https://github.com/codexchain/SC/token-vesting-contracts#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.1.0",
     "prettier": "^2.3.0",
