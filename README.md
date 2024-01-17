@@ -88,17 +88,8 @@ forge test
 
 Pre-built contracts are written by the thirdweb team, and cover the most common use cases for smart contracts.
 
-- [DropERC20](https://thirdweb.com/deployer.thirdweb.eth/DropERC20)
-- [DropERC721](https://thirdweb.com/deployer.thirdweb.eth/DropERC721)
-- [DropERC1155](https://thirdweb.com/deployer.thirdweb.eth/DropERC1155)
-- [SignatureDrop](https://thirdweb.com/deployer.thirdweb.eth/SignatureDrop)
-- [Marketplace](https://thirdweb.com/deployer.thirdweb.eth/Marketplace)
-- [Multiwrap](https://thirdweb.com/deployer.thirdweb.eth/Multiwrap)
 - [TokenERC20](https://thirdweb.com/deployer.thirdweb.eth/TokenERC20)
-- [TokenERC721](https://thirdweb.com/deployer.thirdweb.eth/TokenERC721)
-- [TokenERC1155](https://thirdweb.com/deployer.thirdweb.eth/TokenERC1155)
-- [VoteERC20](https://thirdweb.com/deployer.thirdweb.eth/VoteERC20)
-- [Split](https://thirdweb.com/deployer.thirdweb.eth/Split)
+
 
 [Learn more about pre-built contracts](https://portal.thirdweb.com/pre-built-contracts)
 
